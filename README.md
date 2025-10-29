@@ -4,7 +4,6 @@
 
 ---
 
-![OKX Exchange Platform Interface](image/2131512294.webp)
 
 **OKX Exchange** is a Hong Kong-based cryptocurrency exchange established in 2014 as a subsidiary of OKcoin. Originally known as OKEX, the platform rebranded to OKX and has grown into a global powerhouse serving over 20 million users across more than 200 countries.
 
